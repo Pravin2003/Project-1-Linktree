@@ -109,3 +109,7 @@ body{
     margin-top: 5px !important;
     margin-left: 2px !important;
 }
+@media(max-width: 1200px) {
+    body {height: auto;
+    }
+}
